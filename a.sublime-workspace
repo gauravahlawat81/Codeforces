@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isPrime"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"mrg",
+				"margin-left\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"text-a",
+				"text-transform\tproperty"
+			],
+			[
+				"login",
+				"loginbutton"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ins",
+				"inserted"
+			],
+			[
+				"max",
+				"max_gcd"
+			],
+			[
+				"cl",
+				"clockwise"
+			],
+			[
+				"st",
+				"storage"
+			],
+			[
+				"sr",
+				"storage"
+			],
+			[
+				"ch",
+				"checkrange"
+			],
+			[
+				"fir",
+				"first_right"
+			],
+			[
+				"firs",
+				"first_left"
+			],
+			[
+				"RM",
+				"RMQ"
+			],
+			[
+				"cons",
+				"constructSTUtil"
+			],
+			[
+				"C",
+				"constructSTUtil"
+			],
+			[
+				"upad",
+				"updatevalueUtil"
+			],
+			[
+				"ans",
+				"ans2"
+			],
+			[
+				"asn",
+				"ans2"
+			],
+			[
+				"su",
+				"suffix_array"
+			],
+			[
+				"suff",
+				"suffix_array"
+			],
+			[
+				"pre",
+				"prefix_array"
+			],
+			[
+				"pref",
+				"prefix_sum"
+			],
+			[
+				"pr",
+				"prefix_array"
+			],
+			[
+				"in",
+				"isInteger"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"ma",
+				"marked"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"wr",
+				"writeln"
+			],
+			[
+				"so",
+				"sortbysecdesc"
+			],
+			[
+				"push_",
+				"push_front"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"wer",
+				"writeln"
+			],
+			[
+				"wri",
+				"writeln"
+			],
+			[
+				"R",
+				"ROW"
+			],
+			[
+				"col",
+				"COLUMN"
+			],
+			[
+				"Ro",
+				"ROW-2"
+			],
+			[
+				"game",
+				"game_over"
+			],
+			[
+				"Col",
+				"COLUMN"
+			],
+			[
+				"row",
+				"ROW"
+			],
+			[
+				"pi",
+				"piece"
+			],
+			[
+				"PI",
+				"PIECE2"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"PL",
+				"PLAYER1"
+			],
+			[
+				"Pla",
+				"PLAYER1"
+			],
+			[
+				"flip",
+				"flip_board"
+			],
+			[
+				"remo",
+				"remove_all_duplicates"
+			],
+			[
+				"print",
+				"print_by_pointer"
+			],
+			[
+				"start",
+				"starting"
+			],
+			[
+				"sta",
+				"starting"
+			],
+			[
+				"statr",
+				"starting"
+			],
+			[
+				"min",
+				"MinPath"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"ve",
+				"vert"
+			],
+			[
+				"inc",
+				"incoming"
+			],
+			[
+				"h",
+				"havecats"
+			],
+			[
+				"hash",
+				"HashTable"
+			],
+			[
+				"cap",
+				"capacity"
+			],
+			[
+				"heap",
+				"heapsize"
+			],
+			[
+				"In",
+				"Insert"
+			],
+			[
+				"dele",
+				"delete_function"
+			],
+			[
+				"delete",
+				"delete_function"
+			],
+			[
+				"sra",
+				"iterative_search"
+			],
+			[
+				"new",
+				"newnode"
+			],
+			[
+				"roo",
+				"root2"
+			],
+			[
+				"root",
+				"root1"
+			],
+			[
+				"for",
+				"for_first"
+			],
+			[
+				"fi",
+				"for_first"
+			],
+			[
+				"fr",
+				"for_second"
+			],
+			[
+				"find",
+				"find_level"
+			],
+			[
+				"ind",
+				"inIndex-1"
+			],
+			[
+				"key",
+				"key_node"
+			],
+			[
+				"c",
+				"pair_wise_swap_by_changing_links"
+			],
+			[
+				"pri",
+				"print_the_reverse"
+			],
+			[
+				"l",
+				"Linked_List"
+			],
+			[
+				"insert",
+				"insert_at_tail"
+			],
+			[
+				"head",
+				"head_ref"
+			],
+			[
+				"hea",
+				"head_ref"
+			],
+			[
+				"num",
+				"num6"
+			],
+			[
+				"bn",
+				"binaryToDecimal"
+			],
+			[
+				"pos",
+				"posA"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"rol",
+				"roll_no"
+			],
+			[
+				"sort",
+				"sort_student"
+			],
+			[
+				"Add",
+				"Add_Rank"
+			],
+			[
+				"ro",
+				"roll_no"
+			],
+			[
+				"sor",
+				"sort_student"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"incde",
+				"include"
+			],
+			[
+				"A",
+				"addEdge"
+			],
+			[
+				"star",
+				"start"
+			],
+			[
+				"m",
+				"max_ending_here"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"prin",
+				"printset"
+			],
+			[
+				"s",
+				"socket"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"Max",
+				"maximum"
+			],
+			[
+				"Gra",
+				"Graph"
+			],
+			[
+				"done",
+				"done_process"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"tota",
+				"total_available"
+			],
+			[
+				"int",
+				"initialize"
+			],
+			[
+				"p",
+				"printcodes"
+			],
+			[
+				"numebr",
+				"number_of_9"
+			],
+			[
+				"asnwe",
+				"answer_9"
+			],
+			[
+				"nine",
+				"nine_required"
+			],
+			[
+				"as",
+				"answer_6"
+			],
+			[
+				"nu",
+				"number_of_6"
+			],
+			[
+				"f",
+				"finish"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"x",
+				"xroot"
+			],
+			[
+				"y",
+				"yroot"
+			],
+			[
+				"v",
+				"vertices"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fie",
+				"file_data"
+			],
+			[
+				"prof",
+				"profit"
+			],
+			[
+				"arr",
+				"arr3"
+			],
+			[
+				"ad",
+				"adjacent"
+			],
+			[
+				"size",
+				"size1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/high_speed_tcp.data",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/scratch/high_speed.data",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/first.tr",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/scratch/first.cc",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/scratch/fifth.cc",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/new_reno.data",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/scratch/tcp-bulk-send.cc",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/examples/tcp/tcp-bulk-send.cc",
+		"/home/gaurav/Downloads/ns-allinone-3.29/ns-3.29/scratch/tcp-single-flow.cc",
+		"/home/gaurav/Desktop/SPOJ/PALIN - The Next Palindrome.cpp",
+		"/home/gaurav/Desktop/SPOJ/ONP - Transform the Expression.cpp",
+		"/home/gaurav/Desktop/SPOJ/Prime Generator.cpp",
+		"/home/gaurav/Desktop/CodeForces/Template.cpp",
+		"/home/gaurav/Desktop/CodeForces/Road Construction.cpp",
+		"/home/gaurav/Desktop/CodeForces/Book Reading.cpp",
+		"/home/gaurav/Downloads/matmul.c",
+		"/home/gaurav/Desktop/CodeForces/Pillars.cpp",
+		"/home/gaurav/Desktop/5th Sem/WTA/js/login.js",
+		"/home/gaurav/Desktop/5th Sem/PC/p1.cpp",
+		"/home/gaurav/Desktop/5th Sem/WTA/index.html",
+		"/home/gaurav/Desktop/5th Sem/WTA/login.html",
+		"/home/gaurav/Desktop/5th Sem/WTA/signup.html",
+		"/home/gaurav/Desktop/5th Sem/WTA/js/signup.js",
+		"/home/gaurav/Downloads/project-20190827T135139Z-001/project/index.html",
+		"/home/gaurav/Desktop/CodeForces/Boxers.cpp",
+		"/home/gaurav/Desktop/CodeForces/DIY Wooden Ladder.cpp",
+		"/home/gaurav/Desktop/DSA/Trie/Insert and delete.cpp",
+		"/home/gaurav/Desktop/5th Sem/SC/LAB2/first.py",
+		"/home/gaurav/Downloads/p1.py",
+		"/home/gaurav/.cache/.fr-6lStaK/Lab1/nb.py",
+		"/home/gaurav/Desktop/5th Sem/SC/LAB2/SPECT.csv",
+		"/home/gaurav/Desktop/5th Sem/SC/LAB2/file.csv",
+		"/home/gaurav/Desktop/CodeForces/Remove the Substring (easy version).cpp",
+		"/home/gaurav/Desktop/CodeForces/Common Divisors.cpp",
+		"/home/gaurav/Desktop/CodeForces/Equal Rectangles.cpp",
+		"/home/gaurav/Desktop/CodeForces/Circle of Students.cpp",
+		"/home/gaurav/Desktop/CodeForces/Bakery.cpp",
+		"/home/gaurav/Desktop/CodeForces/PolandBall and Hypothesis.cpp",
+		"/home/gaurav/Desktop/CodeForces/Cut Ribbon.cpp",
+		"/home/gaurav/Desktop/CodeFunDo/UserLogin.html",
+		"/home/gaurav/Desktop/CodeForces/Zero Array.cpp",
+		"/home/gaurav/Desktop/CodeForces/Maximum Median.cpp",
+		"/home/gaurav/Desktop/CodeForces/Block Adventure.cpp",
+		"/home/gaurav/Desktop/CodeForces/Hotelier.cpp",
+		"/home/gaurav/Desktop/CodeForces/Important Exam.cpp",
+		"/home/gaurav/Desktop/CodeForces/Three Piles of Candies.cpp",
+		"/home/gaurav/Desktop/CodeForces/Robot Breakout.cpp",
+		"/home/gaurav/Desktop/CodeForces/Odd Sum Segments.cpp",
+		"/home/gaurav/Desktop/CodeForces/City Day.cpp",
+		"/home/gaurav/Desktop/CodeForces/Meme Problem.cpp",
+		"/home/gaurav/Downloads/17IT115_IT462_P2.cpp",
+		"/home/gaurav/Desktop/CodeForces/Water Lily.cpp",
+		"/home/gaurav/Desktop/Ankur/segment_tree.cpp",
+		"/home/gaurav/Desktop/DSA/DP/knapsack.cpp",
+		"/home/gaurav/Desktop/Ankur/output.txt",
+		"/home/gaurav/Desktop/Ankur/input.txt",
+		"/home/gaurav/Desktop/DSA/Binary Tree/Insertion.cpp",
+		"/home/gaurav/Desktop/Connect 4 Game/By Gaurav/connect4.py",
+		"/home/gaurav/Desktop/whatsapp.py",
+		"/home/gaurav/Desktop/DSA/Binary Tree/Deletion in BT.cpp",
+		"/home/gaurav/Desktop/DSA/DP/Longest Palindromic Subsequence.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Inversion.cpp",
+		"/home/gaurav/Desktop/CodeForces/Sport Mafia.cpp",
+		"/home/gaurav/Desktop/CodeForces/Drinks Choosing.cpp",
+		"/home/gaurav/Desktop/Connect 4 Game/connect4_AI.py",
+		"/home/gaurav/Desktop/Connect 4 Game/connect4.py",
+		"/home/gaurav/Desktop/DSA/DP/Longest Palindromic Substring.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Kadane.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Stock Buy  and Sell.cpp",
+		"/home/gaurav/Desktop/DSA/Linked List/practice.cpp",
+		"/home/gaurav/Desktop/DSA/Binary Tree/build a tree.cpp",
+		"/home/gaurav/Desktop/AtCoder/triangle.py",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Largest Subarray of 0 and 1.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Subarray with given sum.cpp",
+		"/home/gaurav/Desktop/17IT115/DAA/LAB3/practice/inversion.cpp",
+		"/home/gaurav/Desktop/17IT115/DAA/LAB3/Counting Inversions Using Set.cpp",
+		"/home/gaurav/Desktop/17IT115/DAA/LAB3/inversion.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Equilibrium point.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Leaders in an Array.cpp",
+		"/home/gaurav/Desktop/GeeksforGeeks/Must Do Coding Questions/Majority Element.cpp",
+		"/home/gaurav/Desktop/CodeForces/Cover it!.cpp",
+		"/home/gaurav/Desktop/DSA/Graphs/BFS and DFS.cpp",
+		"/home/gaurav/Desktop/CodeForces/Subsequences (easy version).cpp",
+		"/home/gaurav/Desktop/CodeForces/gen.py",
+		"/home/gaurav/Desktop/CodeForces/Vus the Cossack and Strings.cpp",
+		"/home/gaurav/Desktop/CodeForces/Vus the Cossack and Numbers.cpp",
+		"/home/gaurav/Desktop/CodeForces/Filling Shapes.cpp",
+		"/home/gaurav/Desktop/DSA/DP/Longest Increasing Subsequence.cpp",
+		"/home/gaurav/Desktop/Connect 4 Game/By Gaurav/try.py",
+		"/home/gaurav/Desktop/CodeForces/Coins.cpp",
+		"/home/gaurav/Desktop/CodeForces/test.cpp",
+		"/home/gaurav/Desktop/CodeForces/From Hero to Zero.cpp",
+		"/home/gaurav/Desktop/CodeForces/Recover it.cpp",
+		"/home/gaurav/Desktop/CodeChef/Eat Twice.cpp",
+		"/home/gaurav/Desktop/CodeForces/Vus the Cossack and a Game.cpp",
+		"/home/gaurav/Desktop/CodeForces/Vus the Cossack and a Contest.cpp",
+		"/home/gaurav/Desktop/CodeForces/Equalize Prices.cpp",
+		"/home/gaurav/Desktop/CodeForces/Computer Game.cpp",
+		"/home/gaurav/Desktop/CodeForces/Boredom.cpp",
+		"/home/gaurav/Desktop/CodeForces/Candy Box (easy version).cpp",
+		"/home/gaurav/Desktop/CodeForces/Nearest Interesting Number.cpp",
+		"/home/gaurav/Desktop/CodeForces/Chunga-Changa.cpp",
+		"/home/gaurav/Desktop/CodeForces/Discounts.cpp",
+		"/home/gaurav/Desktop/CodeForces/Ehab is an Odd Person.cpp",
+		"/home/gaurav/Desktop/CodeForces/Less or Equal.cpp",
+		"/home/gaurav/Desktop/CodeForces/Teams Forming.cpp",
+		"/home/gaurav/Desktop/CodeForces/Team.cpp",
+		"/home/gaurav/Desktop/CodeForces/Valeriy and Deque.cpp",
+		"/home/gaurav/Desktop/CodeForces/Nick and Array.cpp",
+		"/home/gaurav/Desktop/CodeForces/Alex and a Rhombus.cpp",
+		"/home/gaurav/Desktop/CodeForces/Ehab and Another Construction problem.cpp",
+		"/home/gaurav/Desktop/CodeChef/Multiple Choice Exam.cpp",
+		"/home/gaurav/Desktop/17IT115/DAA/LAB3/practice_2/merge.py",
+		"/home/gaurav/Desktop/DSA/Linked List/Complete List.cpp",
+		"/home/gaurav/Desktop/DSA/DP/Min cost path.cpp",
+		"/home/gaurav/Desktop/17IT115/DAA/LAB7/q1.cpp",
+		"/home/gaurav/Desktop/AtCoder/A- Apple Pie.cpp",
+		"/home/gaurav/Desktop/DSA/DP/Cutting Rod.cpp",
+		"/home/gaurav/Desktop/DSA/DP/Maximum Sum Increasing Subsequence.cpp",
+		"/home/gaurav/Desktop/DSA/DP/kadane.cpp",
+		"/home/gaurav/Desktop/DSA/DP/Longest Common Subsequence.cpp",
+		"/home/gaurav/Desktop/DSA/DP/longest common substring.cpp",
+		"/home/gaurav/Desktop/17IT115/DAA/LAB9/question 2 bottom up.cpp",
+		"/home/gaurav/Desktop/CodeForces/Party.cpp",
+		"/home/gaurav/Desktop/CodeForces/try.cpp",
+		"/home/gaurav/Desktop/CodeForces/Little Pigs and Wolves.cpp",
+		"/home/gaurav/Desktop/CodeForces/Substring.cpp",
+		"/home/gaurav/Desktop/CodeForces/Kefa and Park.cpp"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "a.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/CodeChef/tushar.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
